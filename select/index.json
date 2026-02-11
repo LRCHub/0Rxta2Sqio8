@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "エマ (alt ver.)",
+  "base_artist": "go!go!vanillas",
+  "createdAt": "2026-02-11T03:23:35.553738Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エマ",
+      "artist": "go!go!vanillas",
+      "has_synced": true,
+      "path": "select/01_エマ_go!go!vanillas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "15.アフターライフ（エマ）",
+      "artist": "ドリームファクトリー",
+      "has_synced": true,
+      "path": "select/02_15.アフターライフ(エマ)_ドリームファクトリー.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "02_エマ×アメリの両耳舐め媚び媚びおまんこサンド素股",
+      "artist": "ブラックマの嫁",
+      "has_synced": true,
+      "path": "select/03_02_エマ×アメリの両耳舐め媚び媚びおまんこサンド素股_ブラックマの嫁.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エマ",
+      "artist": "go!go!vanillas",
+      "has_synced": false,
+      "path": "select/pl_01_エマ_go!go!vanillas.txt"
+    }
+  ]
+}
